@@ -1,0 +1,11 @@
+num facture, date de creation, date limite de paiement,nom societe,adresse,telephone,email,total ht,total tva,total ttc
+08041998,25/11/2021,25/12/2021,Saadoun STE,78 rue ibn sina kelibia,+21653264429,ghaylen.triki@insat.ucar.tn,3.410.000,51.150,3.461.150,
+description,quantite,prix unitaire,total HT
+table de nuit,4,50.000,200.000,
+chaise,12,20.000,240.000,
+armoire,2,160.000,320.000,
+table,4,75.000,300.000,
+lit,8,200.000,1.600.000,
+fenetre,5,150.000,750.000,
+,,,,
+,,,,
