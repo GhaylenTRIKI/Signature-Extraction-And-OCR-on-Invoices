@@ -1,6 +1,6 @@
 # Signature-Extraction-And-OCR-on-Invoices</br>
 1. Creation of a document scanner :</br>
-+Converts RGB image to gray</br>
++ Converts RGB image to gray</br>
 + Gaussian blur and canny filter to detect the contour</br>
 + A dilation to repair broken lines</br>
 + An erosion to refine separate objects</br>
